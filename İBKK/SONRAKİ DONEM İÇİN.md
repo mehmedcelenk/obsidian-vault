@@ -1,0 +1,4 @@
+- Kaldığı Dersler, kredi, şifre
+- Kayıtlar, DS Hk. AOİHL Hk. & SSS Afiş
+- Kursta derslerin nasıl işlendiğine dair Fotokopi
+- 

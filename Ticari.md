@@ -1,0 +1,14 @@
+- Ahiska Kokuları
+- Özel Hocalık
+- Oyunlastırılmıs Soru Bankası PDF (yasalmı)
+- İstanbul → anne-bebek mağazaları → toptan potansiyel satış noktaları.
+- Udemy VC
+- Dropshipping
+- Rakip ürünlei incele → yorumlardaki sorunları gör → mekanizmayı anla → sıfırdan daha iyi çözüm icat et.
+- Planner + hediye namaz planner
+- [www.aktifbebek.com](http://www.aktifbebek.com/) XML
+- Türrrlü türlü özel hoca ilanları
+     - Tech G. + Elif Ba Free
+- tarih kitabı to bideo oomasyon
+- Web to posts
+- Ekatalog

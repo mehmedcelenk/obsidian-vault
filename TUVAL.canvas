@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"49fea777c5b248b4",
+			"type":"text",
+			"text":"- [ ] -> Yapılacak (Normal kutu)\n\n- [/] -> Yarım / Devam eden\n\n- [x] -> Tamamlandı\n\n- [-] -> İptal edildi\n\n- [>] -> Ertelendi / Kaydırıldı\n\n- [<] -> Planlandı\n\n- [?] -> Soru işareti (?)\n\n- [!] -> Önemli / Ünlem (!)\n\n- [*] -> Yıldız (*)\n\n- [\"] -> Alıntı (\")\n\n- [l] -> Konum / Yer (Location)\n\n- [b] -> Yer imi / Bookmark\n\n- [i] -> Bilgi (Information)\n\n- [S] -> Tasarruf / Para ($)\n\n- [I] -> Fikir (Idea)\n\n- [p] -> Artılar (Pros)\n\n- [c] -> Eksiler (Cons)\n\n- [f] -> Ateş / Popüler (Fire)\n\n- [k] -> Anahtar (Key)\n\n- [w] -> Zafer / Başarı (Win)\n\n- [u] -> Yukarı ok (Up)\n\n- [d] -> Aşağı ok (Down)\n\n\n\n",
+			"styleAttributes":{},
+			"x":-140,
+			"y":140,
+			"width":620,
+			"height":780
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

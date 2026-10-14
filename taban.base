@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Görünüm
+  - type: cards
+    name: table-lines
+  - type: kanban
+    name: row-alt

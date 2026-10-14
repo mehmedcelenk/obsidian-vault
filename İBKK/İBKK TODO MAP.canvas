@@ -1,0 +1,93 @@
+{
+	"nodes":[
+		{
+			"id":"a82ccc176bd97400",
+			"type":"text",
+			"text":"**ÇIKTILAR & DUYURULAR**\n- [/] AOİHL 101\n- [/]  Duyuru: Burası kültür kursu değil, kültür dershanesi değil, kültür okulu değil, örgün okul değil; kültür derslernize sdece dsetek oluyoruz, AÖ özünde olduğu gibi siin bireysel calısmalarınız esastır.\n---\n**BASİT**\n- [/] Hocalara OGMMATERYAL sitesini at, öylesine.\n---\n**KURSTA İKEN**\n- [/]  Tel nosu olmayanların tel nosunu onaylattırma AOİHL sisteminden.\n- [/] Gülal MEBİM’İ arasın.\n- Muhammed Hoca’ya\n\t- [?] Biyometrik fotoğrafı nası hallediyoruz?",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-2160,
+			"width":360,
+			"height":731
+		},
+		{
+			"id":"d25f384aa28cbaf5",
+			"type":"text",
+			"text":"\n- [/] İşkur Hatırlat\n- [/] hocaların geldiği günleri not almak\n- [/] Son 2 günün yoklamasını fixle ve gönder\n- [/] Deadline belirle 1 işe",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-2600,
+			"width":360,
+			"height":160
+		},
+		{
+			"id":"508f2f7aed804d6f",
+			"type":"text",
+			"text":"**ÖNEMLİ**\n- [/] Talebeleirn buradan alcakları ile bireysel alacakları dersi ayırıp onları tek tek cagırıp takip etmek.",
+			"styleAttributes":{},
+			"x":-860,
+			"y":-2412,
+			"width":360,
+			"height":220
+		},
+		{
+			"id":"d96f01b235bbe9d3",
+			"type":"text",
+			"text":"**MATERYALLER**\n- [/] Fasiküller\n\t- Test\n\t- Ödev\n\t- Kitap Siparişleri\n\t\t- EDB4\n\t\t- MAT4\n\t\t- NOT KAĞIDINDAN\n- [/] OGM Özetleri\n- [/] EN top50 ezber\n- [ ] MAT top50 ezber\n- [ ] TDE top50 ezber\n---\n- [!] **DERS PROGRAMI**\n- [/] **TAMAMLA**\n- MAT1 Bu hafta bitiyor. Haftaya 1-2 gün cıkmıs çözeriz tüm mat öğrencileriyle birlikte. Bu esnada anketi de yaparız ve belki sadece cıkmıs çözerek devam ederiz anket olumsuz olur ise, olumlu olursa da baslarız işte.\n- Coğ Ortak → Mufredat\n- Coğ 1\n- EN. 123 FULL Ortak\n- EN. 45678 FULL Ortak\n- TDE1 Ortak → Mufredat\n- TDE1",
+			"styleAttributes":{},
+			"x":-1300,
+			"y":-2600,
+			"width":390,
+			"height":816
+		},
+		{"id":"37484253e2179bf4","type":"text","text":"**FİKİRLER & EXTRA**\n- Telefonlarından uygulamaları engelleyip telefonlarını vermek?\n- SAYSÖZ\n\t- Online Say.\n- SM Şablon\n- enes biçici yks planı → ahmet hocaya yönlendir\n---\n**DERS MATERYALİ VE ANLATIMI**\n\nTALEBE\n- Özetler\n- Liseye HG ilk 24\n- Calısma Deft.\n- Cıkmıslar\n\nHOCA\n- KA → Özet\n- Ödev + SÇ → Cıkmıslar + Calısma Deft.\n\n","x":160,"y":-2600,"width":547,"height":662},
+		{
+			"id":"31ea7f5efdbe69ab",
+			"type":"text",
+			"text":"**ÖN HAZIRLIK & !ACELE**\n- [ ] E-sınavlılar listesi ve bşv. tarihleri bildirimi\n- [ ] Abdulhamid Han gibi sağlam kurslarla iletişime geçip onların kütlür dersi uygulamalarını öğrenmem lazım\n- [ ] Obs’a not düş x dersini verdik y kişi geçti verisi hoca istiyor sene osnu\n---\n**SON HAFTA**\n- Çıkmış Sorular Çıktıları\n- 10.000 Soru Kampı",
+			"styleAttributes":{},
+			"x":760,
+			"y":-2627,
+			"width":250,
+			"height":717
+		},
+		{
+			"id":"22722d75c12335fb",
+			"type":"text",
+			"text":"**ORTAKLAR**\n- [ ] akoul.gov.tr'den konuları almaya devam.\n- [ ] HER SORUYA HOCA MOD EKLE, HOCA MODA TIKLARSA HOCA ONUN KONUSUNU VS. GÜNCELLEYEBİLİR.\n- [ ] Fasiküllerin Soruları PDF -> WEB\n- [ ] tde ve ydilci kelimeye tıklasın yüklöem mi özne mi seçsin\n- [ ] dönem seçildiği gibi konu da seçilebilsin\n- [ ] hocalar soruları nzorluk eviyelerini seçsinler\n- [ ] hocalar soruların özneleirini vs. seçsinler\n- [ ] Önce konu deigl keyword verebilirim diğer branchte, ve direkt karekök işaretilileri keywordlerim\n- [ ] Bu branchte 50lik paketler olarka kafsına köre konulasın kesisecek sekilde",
+			"styleAttributes":{},
+			"x":1080,
+			"y":-2627,
+			"width":250,
+			"height":940
+		},
+		{"id":"8402a7dbbc392d0a","type":"text","text":"**TARİHLER**\n- [!] e-Sınav randevu: 2–16 Kasım 2026\n---\n**VERİLER**\n- İng. verimli\n- Ortaklar verimli\n- Ortaklar sonram furedat onaylandı\n-  Gruplamalar\n\t- ACA + DURAN + YİĞİTER + ÇAKMAK  \n\t- KAPTAN + KIZILBULUT + AYYILDIZ + YILMAZ  \n\t- SİNMEZ + AYDIN + DEDE  \n\t- MAAZ + TANRIYATAPAN + ÇAKIL + ÖZTÜRK  \n\t- AYDOS + BOZKURT + BÖREK + ÇAK  \n\t- DEĞER + MAHMUTÇİFTÇİ + YURT + ÇETİNKAYA +  ÇİFTÇİ + ŞAHİN  \n\t- ASLAN + GÜLAL + SEVİNÇ + TÜRKMEN\n\n---\n**BİLGİLER**\n- [?] 12 sınıflar kac sınava girebiliyor bi yılda\n- [?] Furkan gülal 1 yılda geçebiliecek mi derslerin hepsini teknik olarak mümkün mü\n- [?] Yeni PDF incele\n- Ay/30k ","x":-440,"y":-2600,"width":340,"height":1104}
+	],
+	"edges":[
+		{
+			"id":"0fbf6168f8afcb0a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"31ea7f5efdbe69ab",
+			"fromSide":"left",
+			"toNode":"37484253e2179bf4",
+			"toSide":"right",
+			"toEnd":"none"
+		},
+		{
+			"id":"7900c2ef9923f483",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"31ea7f5efdbe69ab",
+			"fromSide":"right",
+			"toNode":"22722d75c12335fb",
+			"toSide":"left",
+			"toEnd":"none"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"28d19bdb21e02fb1"
+	}
+}
